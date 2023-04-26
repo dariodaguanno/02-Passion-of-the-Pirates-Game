@@ -24,7 +24,7 @@ How to build and release the project: https://docs.unrealengine.com/4.27/en-US/S
 Spawn into the map, locate the closest zombie, and defeat it with your sword, incrementing the defeated zombies counter. Stay alive through the use of health kits and clever maneuvering of character and ship. The final score before the timeout or death will become your record. After your time runs out or you are defeated, you will be presented with the game menu, giving you the choice to end or continue the game. 
 
 ## Key Commands 
-  - traverse map with **WASD** keys and control camera view with **mouse** or **left right up down** keys. 
+  - Traverse map with **WASD** keys and control camera view with **mouse** or **left right up down** keys. 
   - Sprint by holding **shift** key. 
   - Equip and unequip the sword by clicking **1**.
   - Equip and unequip shield by clicking **2**.
